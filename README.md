@@ -162,4 +162,3 @@ The Layoffs Data Analysis project provides valuable insights into layoffs trends
 
 ---
 
-Feel free to customize the content as per your project's specifics. Let me know if there's anything else you'd like to add or modify!
