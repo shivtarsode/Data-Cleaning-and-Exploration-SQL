@@ -150,7 +150,7 @@ The SQL scripts used in this project include:
 
 1. **Clone the Repository:** 
     ```sh
-    git clone https://github.com/username/layoffs-data-analysis.git
+    git clone https://github.com/shivtarsode/layoffs-data-analysis.git
     ```
 2. **Load Data:** Place the dataset in the `data` directory.
 3. **Run SQL Scripts:** Use the provided SQL scripts to clean the data and perform exploratory data analysis.
